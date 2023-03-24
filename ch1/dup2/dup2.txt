@@ -1,0 +1,5 @@
+读取标准输入或是使用os.Open打开各个具名文件，并操作它们
+os.Open函数返回两个值。第一个值是被打开的文件(*os.File），其后被Scanner读取
+os.Open
+函数返回
+os.Open

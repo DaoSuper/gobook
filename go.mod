@@ -8,9 +8,13 @@ require (
 	github.com/gorilla/websocket v1.5.0
 )
 
+require github.com/andybalholm/cascadia v1.3.1 // indirect
+
 require (
+	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/bytedance/sonic v1.8.0 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
+	github.com/djimenez/iconv-go v0.0.0-20160305225143-8960e66bd3da
 	github.com/gin-contrib/sse v0.1.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
